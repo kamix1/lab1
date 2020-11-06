@@ -1,3 +1,0 @@
-﻿  3.cpp
-C:\Users\User\source\repos\ConsoleApplication1\3\3.cpp(19,9): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "int *"
-  3.vcxproj -> C:\Users\User\source\repos\ConsoleApplication1\Debug\3.exe
